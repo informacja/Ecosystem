@@ -1,6 +1,4 @@
-Internet researcher subiective Must-Have programs list
-
-# Welcome
+# Welcome everyone
 > Nowadays, in my opinion more important than used Operating system is Internet Browser choice. Tell me what browser you use, I tell you who you are :)
 
 ## Free programs list
@@ -12,9 +10,11 @@ Internet researcher subiective Must-Have programs list
 
 ### Opera
 
-> Mouse Gestures (with Right Mouse Click)
-https://addons.mozilla.org/pl/firefox/addon/opera-gestures/
+> Mouse Gestures (with Right Mouse Click) 
+> https://addons.mozilla.org/pl/firefox/addon/opera-gestures/
+> 
 ![ddd](docs/operaclose.gif)
 
 > Search in browser tabs
+> 
 ![ddd](docs/operatabs.gif)
