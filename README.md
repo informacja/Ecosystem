@@ -1,5 +1,5 @@
 # Welcome everyone
-> Nowadays, in my opinion more important than used Operating system is Internet Browser choice. Tell me what browser You use, I tell You who you are :)
+> Nowadays, in my opinion more important than used Operating System is Internet Browser choice. Tell me what browser You use, I tell You who you are :)
 
 ## Programs & Tools list
 | Category                      | Name    | Link                                                       | Platform              |
