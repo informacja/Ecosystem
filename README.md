@@ -12,16 +12,16 @@
 
 ### Opera
 
-> Mouse Gestures (with Right Mouse Click) 
+##### Mouse Gestures (with Right Mouse Click) 
 > https://addons.mozilla.org/pl/firefox/addon/opera-gestures/
 ![ddd](docs/operaclose.gif)
 
-> Search in browser tabs
+###### Search in browser tabs
 ![why](docs/operatabs.gif)
 
 ### ShareX 
 
-> Screen capture, file sharing and productivity tool
+##### Screen capture, file sharing and productivity tool
 ![why](docs/whysharex.png)
 
 #### Possibilities menu
