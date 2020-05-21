@@ -19,14 +19,19 @@ Are you interested in how to make instrictions like this? Check it [Markdown Che
 
 ### Opera
 
-###### Mouse Gestures (with Right Mouse Click) 
-> https://addons.mozilla.org/pl/firefox/addon/opera-gestures/
-![ddd](docs/operaclose.gif)
+>###### Mouse Gestures (with Right Mouse Click) 
+>
+> ![ddd](docs/operaclose.gif)
+> [Firefox](https://addons.mozilla.org/pl/firefox/addon/opera-gestures)
+> [Chrome](https://www.google.com/search?safe=active&client=opera&hs=sI7&sxsrf=ALeKk01YUHIbZmO3I4BPpMMtxpQm1mdmpQ%3A1590060053822&ei=FWTGXtaUMe70qwHU0peIDg&q=google+chrome+gestures&oq=Google+chrome+gest&gs_lcp=CgZwc3ktYWIQAxgAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyCQgAEBYQHhCLAzIJCAAQFhAeEIsDMgkIABAWEB4QiwMyCQgAEBYQHhCLAzIJCAAQFhAeEIsDOgQIIxAnOgYIIxAnEBM6BAgAEEM6CAgAEIMBEIsDOgoIABCDARBDEIsDOgcIABBDEIsDOgUIABCLAzoFCAAQgwE6AggAOgcIABAKEIsDOggIABDLARCLA1DkBVj0NGC6O2gBcAB4AIABtwGIAecRkgEEMC4xOZgBAKABAaoBB2d3cy13aXq4AQM&sclient=psy-ab)
 
 ###### Search in browser tabs
 ![why](docs/operatabs.gif)
 
-###### Flow 
+###### [Flow](https://help.opera.com/pl/touch/my-flow/)
+
+###### Send pages to Opera Touch in your phone 
+![why](docs/flow.jpg)
 
 ### ShareX 
 
