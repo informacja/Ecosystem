@@ -11,8 +11,8 @@ Nowadays, in my opinion more important than used Operating System is Internet Br
 |-------------------------------|---------|------------------------------------------------------------|-----------------------|
 | Browser                       | [Opera](#opera)   | https://www.opera.com/pl/download | Windows, Linux, macOS |
 | Editor                        | VS Code | https://code.visualstudio.com                              | Windows, Linux, macOS |
-| Mail                         | Thunderbird | https://www.thunderbird.net                              | Windows, Linux, macOS |
-| Screen recorder / auto publish| [ShareX](#ShareX)   | https://getsharex.com/downloads                           | Windows               |
+| Mail client                        | Thunderbird | https://www.thunderbird.net                              | Windows, Linux, macOS |
+| Screen recorder / auto publish| [ShareX](#ShareX)   | https://getsharex.com/downloads                           | Windows     |
 
 Are You interested in how to make instrictions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
