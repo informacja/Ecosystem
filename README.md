@@ -1,20 +1,19 @@
 # Welcome everyone
-Nowadays, in my opinion more important than used Operating System is Internet Browser choice. Tell me what browser You use, I tell You who you are :) 
-
-> Priority of (window order at monitors) spended time in work
+Today, in my opinion, the Internet browser is much more important than the operating system you use. Tell me what browser you use, and I will tell you who you are 😉
+> Priority of time spent at work (programs window order on monitors):
 > 1. Browser
 > 2. Editor
 > 3. Communicator
 
 ## Programs & Tools list
-| Category                      | Name    | Link                                                       | Platform              |
-|-------------------------------|---------|------------------------------------------------------------|-----------------------|
-| Browser                       | [Opera](#opera)   | https://www.opera.com/pl/download | Windows, Linux, macOS |
-| Editor                        | VS Code | https://code.visualstudio.com                              | Windows, Linux, macOS |
-| Mail client                        | Thunderbird | https://www.thunderbird.net                              | Windows, Linux, macOS |
-| Screen recorder / auto publish| [ShareX](#ShareX)   | https://getsharex.com/downloads                           | Windows     |
+| Category                       | Name    | Link                                                       | Platform              |
+|--------------------------------|---------|------------------------------------------------------------|-----------------------|
+| Browser                        | [Opera](#opera)   | https://www.opera.com/pl/download                | Windows, Linux, macOS |
+| Editor                         | VS Code           | https://code.visualstudio.com                    | Windows, Linux, macOS |
+| Mail client                    | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
+| Screen recorder / auto publish | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
 
-Are You interested in how to make instrictions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Are you interested in how to make instrictions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Screenshots
 
@@ -40,4 +39,4 @@ Are You interested in how to make instrictions like this? Check it [Markdown Che
 
 #### Tomighty 
 ###### Pomodoro method - nabieranie właściwych nawyków, umiejętność oderwania się od zadania jest pożądana u programistów
-[why](docs/tomighty.png)
+![why](docs/tomighty.png)
