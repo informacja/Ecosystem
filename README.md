@@ -1,10 +1,5 @@
 # Welcome everyone
-"" Nowadays, in my opinion more important than used Operating System is Internet Browser choice. Tell me what browser You use, I tell You who you are :) "" 
-
-> Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only. 
->
-> --- [Test-driven development. (2016, November 20). In Wikipedia, The Free Encyclopedia. Retrieved 23:45, November 20, 2016](https://en.wikipedia.org/w/index.php?title=Test-driven_development&oldid=750634597)
-
+Nowadays, in my opinion more important than used Operating System is Internet Browser choice. Tell me what browser You use, I tell You who you are :) 
 
 > Priority (of window on monitors) time spended at work
 > 1. Browser
@@ -15,8 +10,11 @@
 | Category                      | Name    | Link                                                       | Platform              |
 |-------------------------------|---------|------------------------------------------------------------|-----------------------|
 | Browser                       | [Opera](#opera)   | https://www.opera.com/pl/download | Windows, Linux, macOS |
-| Screen recorder / auto publish| [ShareX](#ShareX)   | https://getsharex.com/downloads                           | Windows               |
 | Editor                        | VS Code | https://code.visualstudio.com                              | Windows, Linux, macOS |
+| Mail                         | Thunderbird | https://code.visualstudio.com                              | Windows, Linux, macOS |
+| Screen recorder / auto publish| [ShareX](#ShareX)   | https://getsharex.com/downloads                           | Windows               |
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Screenshots
 
