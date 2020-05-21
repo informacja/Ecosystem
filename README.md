@@ -1,12 +1,20 @@
 # Welcome everyone
-> Nowadays, in my opinion more important than used Operating system is Internet Browser choice. Tell me what browser You use, I tell You who you are :)
+Nowadays, in my opinion more important than used Operating System is Internet Browser choice. Tell me what browser You use, I tell You who you are :) 
+
+> Priority of (window order at monitors) spended time in work
+> 1. Browser
+> 2. Editor
+> 3. Communicator
 
 ## Programs & Tools list
 | Category                      | Name    | Link                                                       | Platform              |
 |-------------------------------|---------|------------------------------------------------------------|-----------------------|
 | Browser                       | [Opera](#opera)   | https://www.opera.com/pl/download | Windows, Linux, macOS |
-| Screen recorder / auto publish| [ShareX](#ShareX)   | https://getsharex.com/downloads                           | Windows               |
 | Editor                        | VS Code | https://code.visualstudio.com                              | Windows, Linux, macOS |
+| Mail client                        | Thunderbird | https://www.thunderbird.net                              | Windows, Linux, macOS |
+| Screen recorder / auto publish| [ShareX](#ShareX)   | https://getsharex.com/downloads                           | Windows     |
+
+Are You interested in how to make instrictions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Screenshots
 
