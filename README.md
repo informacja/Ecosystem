@@ -5,11 +5,6 @@ Nowadays, in my opinion more important than used Operating System is Internet Br
 > 1. Browser
 > 2. Editor
 > 3. Communicator
----
-title: "Sample Document"
-output: html_document
-bibliography: bibliography.bib
----
 
 ## Programs & Tools list
 | Category                      | Name    | Link                                                       | Platform              |
@@ -19,7 +14,7 @@ bibliography: bibliography.bib
 | Mail                         | Thunderbird | https://www.thunderbird.net                              | Windows, Linux, macOS |
 | Screen recorder / auto publish| [ShareX](#ShareX)   | https://getsharex.com/downloads                           | Windows               |
 
-Are You intrested how to make instrictions like this? [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Are You interested in how to make instrictions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Screenshots
 
