@@ -19,15 +19,17 @@
 ###### Search in browser tabs
 ![why](docs/operatabs.gif)
 
+###### Flow 
+
 ### ShareX 
 
 ###### Screen capture, file sharing and productivity tool
 ![why](docs/whysharex.png)
 
-###### Possibilities menu
+###### Lookup of possibilities
 ![why](docs/sharex.gif)
 
 
 #### Tomighty 
-###### Pomidorro method - nabieranie właściwych nawyków, umiejętność oderwania się od zadania jest pożądana
-![why](docs/tomighty.png)
+###### Pomodoro method - nabieranie właściwych nawyków, umiejętność oderwania się od zadania jest pożądana u programistów
+[why](docs/tomighty.png)
