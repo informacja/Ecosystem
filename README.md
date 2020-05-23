@@ -13,12 +13,12 @@ Today, in my opinion, the Internet browser is much more important than the opera
 | Mail client                    | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
 | Screen recorder / auto publish | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
 
-More subiective
-
+More subiective list
+----------------
+- Multicommander
+- Github Desktop
+- ConEmu
 - Tomighty
-- [ ] Multicommander
-> Github Desktop
-> ConEmu
 
 
 Zarządzanie czasem
