@@ -5,7 +5,7 @@ Today, in my opinion, the Internet browser is much more important than the opera
 > 2. Browser
 > 3. Communicator
 
-## Programs & Tools list
+## Programs list
 | Category                       | Name    | Link                                                       | Platform              |
 |--------------------------------|---------|------------------------------------------------------------|-----------------------|
 | Browser                        | [Opera](#opera)   | https://www.opera.com/pl/download                | Windows, Linux, macOS |
@@ -21,20 +21,28 @@ More subiective list
 - [Tomighty](https://tomighty.github.io)
 
 
-Zarządzanie czasem
+###### Two ways of Checklist (right or left side of task)
+- [x] Quality 
+- [ ] Next task 
+
+
+OR
+
+Quantity:tomato::tomato::tomato::tomato: (tomato represent estimation point)
+
+Time planning 
+===============
 | Quality                       | Quantity    | 
 |-------------------------|--|
-| space| tomighty|
-|![space](docs/quality.png)|![tomighty](docs/quantity.jpg)
+|- [x] Quality <br> - [ ] Next task |Quantity:tomato::tomato::tomato::tomato:<br>(tomato represent estimation point)|
+|**Examle in real world**||
+| Space | Tomighty|
+|![Space](docs/qualityPS.png)|![Tomighty](docs/quantity.jpg)
 
-- [ ] ConEmu <br>
-ConEmu * * * 
+*Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału*
+The most frequent mistake, thinking don't need a rest
 
-punkty estymacji
-
-Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału
-
-Konspekty w Operze
+*Konspekty w Operze*
 
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
