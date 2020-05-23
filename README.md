@@ -18,7 +18,7 @@ More subiective list
 - Multicommander
 - Github Desktop
 - ConEmu
-- Tomighty
+- [Tomighty](https://tomighty.github.io)
 
 
 Zarządzanie czasem
