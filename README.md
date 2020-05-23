@@ -25,6 +25,10 @@ Zarządzanie czasem
 | Jakościowe                       | Ilościowe    | 
 ---------------------------
 | space| tomighty|
+
+- [ ] ConEmu <br>
+ConEmu * * * 
+
 punkty estymacji
 
 Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału
