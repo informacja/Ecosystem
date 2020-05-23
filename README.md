@@ -1,8 +1,8 @@
 # Welcome everyone
 Today, in my opinion, the Internet browser is much more important than the operating system you use. Tell me what browser you use, and I will tell you who you are 😉
 > Priority of time spent at work (programs window order on monitors):
-> 1. Browser
-> 2. Editor
+> 1. Editor
+> 2. Browser
 > 3. Communicator
 
 ## Programs & Tools list
@@ -13,19 +13,27 @@ Today, in my opinion, the Internet browser is much more important than the opera
 | Mail client                    | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
 | Screen recorder / auto publish | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
 
-More subiective
-> Multicommander
-> Github Desktop
-> Conemu
-> Tomighty
+More subiective list
+----------------
+- Multicommander
+- Github Desktop
+- ConEmu
+- [Tomighty](https://tomighty.github.io)
+
 
 Zarządzanie czasem
 | Jakościowe                       | Ilościowe    | 
 ---------------------------
 | space| tomighty|
+
+- [ ] ConEmu <br>
+ConEmu * * * 
+
 punkty estymacji
 
 Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału
+
+Konspekty w Operze
 
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
