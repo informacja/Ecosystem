@@ -14,10 +14,12 @@ Today, in my opinion, the Internet browser is much more important than the opera
 | Screen recorder / auto publish | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
 
 More subiective
-> Multicommander
+
+- Tomighty
+- [ ] Multicommander
 > Github Desktop
-> Conemu
-> Tomighty
+> ConEmu
+
 
 Zarządzanie czasem
 | Jakościowe                       | Ilościowe    | 
