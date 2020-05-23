@@ -13,7 +13,21 @@ Today, in my opinion, the Internet browser is much more important than the opera
 | Mail client                    | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
 | Screen recorder / auto publish | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
 
-Are you interested in how to make instrictions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+More subiective
+> Multicommander
+> Github Desktop
+> Conemu
+> Tomighty
+
+Zarządzanie czasem
+| Jakościowe                       | Ilościowe    | 
+---------------------------
+| space| tomighty|
+punkty estymacji
+
+Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału
+
+Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Screenshots
 
