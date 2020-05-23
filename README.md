@@ -29,6 +29,8 @@ punkty estymacji
 
 Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału
 
+Konspekty w Operze
+
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Screenshots
