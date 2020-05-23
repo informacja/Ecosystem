@@ -21,7 +21,7 @@ More subiective
 
 Zarządzanie czasem
 | Jakościowe                       | Ilościowe    | 
-==============
+---------------------------
 | space| tomighty|
 punkty estymacji
 
