@@ -22,9 +22,10 @@ More subiective list
 
 
 Zarządzanie czasem
-| Jakościowe                       | Ilościowe    | 
----------------------------
+| Quality                       | Quantity    | 
+|-------------------------|--|
 | space| tomighty|
+|![space](docs/quality.png)|![tomighty](docs/quantity.jpg)
 
 - [ ] ConEmu <br>
 ConEmu * * * 
