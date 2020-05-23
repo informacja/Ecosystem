@@ -19,6 +19,14 @@ More subiective
 > Conemu
 > Tomighty
 
+Zarządzanie czasem
+| Jakościowe                       | Ilościowe    | 
+==============
+| space| tomighty|
+punkty estymacji
+
+Najczęstrzy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału
+
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Screenshots
