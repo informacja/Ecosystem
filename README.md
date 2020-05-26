@@ -21,23 +21,18 @@ More subiective list
 - [Tomighty](https://tomighty.github.io)
 
 
-###### Two ways of Checklist (right or left side of task)
-- [x] Quality 
-- [ ] Next task 
-
-
-OR
 
 Quantity:tomato::tomato::tomato::tomato: (tomato represent estimation point)
 
 Time planning 
 ===============
+###### Two ways of making Checklist (put mark on left or right side to writen task)
 | Quality                       | Quantity    | 
 |-------------------------|--|
-|- [x] Quality <br> - [ ] Next task |Quantity:tomato::tomato::tomato::tomato:<br>(tomato represent estimation point)|
+|- [x] Quality <br> - [x] Done <br> - [ ] Next task |Quantity :tomato::tomato::tomato::tomato:<br>Other palan :tomato::tomato:<br>(tomato represent estimation point)|
 |**Examle in real world**||
 | Space | Tomighty|
-|![Space](docs/qualityPS.png)|![Tomighty](docs/quantity.jpg)
+|![Space](docs/qualityShort.png)|![Tomighty](docs/quantity.jpg)
 
 *Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału*
 The most frequent mistake, thinking don't need a rest
@@ -74,5 +69,48 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 
 
 #### Tomighty 
-###### Pomodoro method - nabieranie właściwych nawyków, umiejętność oderwania się od zadania jest pożądana u programistów
+###### Pomodoro method - *nabieranie właściwych nawyków, a umiejętność oderwania się od zadania jest pożądana u programistów*
 ![why](docs/tomighty.png)
+
+-------------------------------------
+
+> Wybierz studentów którzy przynależa do wojska, wypisz ich kierunek studiów, fakultet na jaki są zapisani oraz ich 
+> prowadzącego fakultet
+
+```sql
+
+WITH 
+  fakultety AS
+    (SELECT s.nr_albumu,
+            ks.nazwa_kierunku,
+            f.nazwa_fakultetu,
+            f.id_fakultetu
+     FROM dziekanat.studenci s
+     LEFT OUTER JOIN dziekanat.studenci_kierunkow sk USING(nr_albumu)
+     LEFT OUTER JOIN dziekanat.kierunki_studiow ks ON ks.id_kierunku = sk.id_kierunku_studiow
+     LEFT OUTER JOIN dziekanat.zapisy USING(id_kierunku_studiow)
+     NATURAL JOIN dziekanat.fakultety f
+     GROUP BY s.nr_albumu, ks.nazwa_kierunku, f.nazwa_fakultetu, f.id_fakultetu),
+  poborowi AS
+    (SELECT nr_albumu,
+	 		wku
+     FROM dziekanat.wojsko
+     INNER JOIN dziekanat.studenci USING (nr_albumu)
+     WHERE wku = 'WKU w Tarnowie'),
+  prowadzacy as
+    (SELECT pr.id_prowadzacego,
+            pr.imie,
+            f.id_fakultetu,
+            f.nazwa_fakultetu
+     FROM kadry.prowadzacy pr
+     LEFT OUTER JOIN dziekanat.fakultety f USING(id_prowadzacego)
+     WHERE f.nazwa_fakultetu IS NOT NULL )
+	 
+SELECT *
+FROM fakultety f
+LEFT OUTER JOIN prowadzacy USING (id_fakultetu)
+LEFT OUTER JOIN poborowi USING (nr_albumu)
+WHERE wku IS NOT NULL AND id_fakultetu IS NOT NULL;
+
+
+```
