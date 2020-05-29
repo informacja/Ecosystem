@@ -1,75 +1,68 @@
-# Welcome everyone
-Today, in my opinion, the Internet browser is much more important than the operating system you use. Tell me what browser you use, and I will tell you who you are 😉
-> Priority of time spent at work (programs window order on monitors):
-> 1. Editor
-> 2. Browser
-> 3. Communicator
+# Dzień dobry
+Obecnie najważniejszem wyborem programu jest przeglądarka internetowa, spędzamy w "internecie najwięcej czasu". Dlatego powiedz mi której przeglądarki używasz, a powiem Ci kim jsteś 😉
+> Czas spędzany przy stanowisku monitorowym,:
+> 1. Przeglądarka
+> 2. Edytor
+> 3. Komiunikator
 
-## Programs list
-| Category                       | Name    | Link                                                       | Platform              |
+## Lista programów
+| Kategoria                       | Nazwa    | Link                                                       | Platforma         |
 |--------------------------------|---------|------------------------------------------------------------|-----------------------|
-| Browser                        | [Opera](#opera)   | https://www.opera.com/pl/download                | Windows, Linux, macOS |
-| Editor                         | VS Code           | https://code.visualstudio.com                    | Windows, Linux, macOS |
-| Mail client                    | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
-| Screen recorder / auto publish | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
+| Przeglądarka                | [Opera](#opera)   | https://www.opera.com/pl/download                | Windows, Linux, macOS |
+| Edytor                         | VS Code           | https://code.visualstudio.com                    | Windows, Linux, macOS |
+| Klient poczty                   | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
+| Przechwytywanie ekranu i publikacja | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
 
-More subiective list
+Subiektywana lista
 ----------------
 - Multicommander
 - Github Desktop
 - ConEmu
 - [Tomighty](https://tomighty.github.io)
 
-
-
 Quantity:tomato::tomato::tomato::tomato: (tomato represent estimation point)
 
-Time planning 
+Zarządzanie czasem
 ===============
 ###### Two ways of making Checklist (put mark on left or right side to writen task)
-| Quality                       | Quantity    | 
+| Jakość                       | Ilość    | 
 |-------------------------|--|
-|- [x] Quality <br> - [x] Done <br> - [ ] Next task |Quantity :tomato::tomato::tomato::tomato:<br>Other plan :tomato::tomato:<br>(tomato represent estimation point)|
-|**Examle in real world**||
+|- [x] Jakość <br> - [x] Zrobione <br> - [ ] Następne zadanie | Czas :tomato::tomato::tomato::tomato:<br>Other plan :tomato::tomato:<br>(każdy pomidor jest punktem estymacji)|
+|**Z życia wzięte**||
 | Space | Tomighty|
 |![Space](docs/qualityShort.png)|![Tomighty](docs/quantity.jpg)
 
-*Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału*
-The most frequent mistake, thinking don't need a rest
+Najczęstszy błąd: założenie że nie potrzebujemy odpoczynku, zmęczenie materiału
 
-*Konspekty w Operze*
-
-Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Sprawdź jak tworzyć instrukcje takie jak ta [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Screenshots
 
 ### Opera
 
->###### Mouse Gestures (with Right Mouse Click) 
+>######  Gesty myszy (z prawym przyciskiem myszy) 
 >
 > ![ddd](docs/operaclose.gif)
 > [Firefox](https://addons.mozilla.org/pl/firefox/addon/opera-gestures)
 > [Chrome](https://www.google.com/search?safe=active&client=opera&hs=sI7&sxsrf=ALeKk01YUHIbZmO3I4BPpMMtxpQm1mdmpQ%3A1590060053822&ei=FWTGXtaUMe70qwHU0peIDg&q=google+chrome+gestures&oq=Google+chrome+gest&gs_lcp=CgZwc3ktYWIQAxgAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyCQgAEBYQHhCLAzIJCAAQFhAeEIsDMgkIABAWEB4QiwMyCQgAEBYQHhCLAzIJCAAQFhAeEIsDOgQIIxAnOgYIIxAnEBM6BAgAEEM6CAgAEIMBEIsDOgoIABCDARBDEIsDOgcIABBDEIsDOgUIABCLAzoFCAAQgwE6AggAOgcIABAKEIsDOggIABDLARCLA1DkBVj0NGC6O2gBcAB4AIABtwGIAecRkgEEMC4xOZgBAKABAaoBB2d3cy13aXq4AQM&sclient=psy-ab)
 
-###### Search in browser tabs
+###### Wyszukiwanie w otwartych kartach
 ![why](docs/operatabs.gif)
 
 ###### [Flow](https://help.opera.com/pl/touch/my-flow/)
 
-###### Send pages to Opera Touch in your phone 
+###### Wyślij stronę/notatkę jedym kliknięciem do telefonu
 ![why](docs/flow.jpg)
 
 ### ShareX 
-
-###### Screen capture, file sharing and productivity tool
 ![why](docs/whysharex.png)
 
-###### Lookup of possibilities
+###### Sprawdź czego potrzebujesz
 ![why](docs/sharex.gif)
 
 
 #### Tomighty 
-###### Pomodoro method - *nabieranie właściwych nawyków, a umiejętność oderwania się od zadania jest pożądana u programistów*
+###### Metoda pomodoro - *nabieranie właściwych nawyków, a umiejętność oderwania się od zadania jest pożądana u programistów*
 ![why](docs/tomighty.png)
 
 -------------------------------------
