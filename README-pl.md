@@ -1,5 +1,5 @@
 # Dzień dobry
-Obecnie najważniejszem wyborem programu jest przeglądarka internetowa, spędzamy w "internecie najwięcej czasu". Dlatego parafrazując klasyka *powiedz mi której przeglądarki używasz, a powiem Ci kim jesteś* 😉
+Obecnie najważniejszem wyborem programu jest przeglądarka internetowa, spędzamy w "internecie najwięcej czasu". Dlatego parafrazując klasyka *powiedz mi jakiej przeglądarki używasz, to powiem Ci kim jesteś* 😉
 > Czas spędzany przy stanowisku monitorowym:
 > 1. Przeglądarka
 > 2. Edytor
