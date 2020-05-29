@@ -1,16 +1,16 @@
 # Dzień dobry
 Obecnie najważniejszem wyborem programu jest przeglądarka internetowa, spędzamy w "internecie najwięcej czasu". Dlatego powiedz mi której przeglądarki używasz, a powiem Ci kim jsteś 😉
-> Czas spędzany przy stanowisku monitorowym,:
+> Czas spędzany przy stanowisku monitorowym:
 > 1. Przeglądarka
 > 2. Edytor
-> 3. Komiunikator
+> 3. Komunikator
 
 ## Lista programów
-| Kategoria                       | Nazwa    | Link                                                       | Platforma         |
+| Kategoria                      | Nazwa   | Link                                                       | Platforma         |
 |--------------------------------|---------|------------------------------------------------------------|-----------------------|
-| Przeglądarka                | [Opera](#opera)   | https://www.opera.com/pl/download                | Windows, Linux, macOS |
+| Przeglądarka                   | [Opera](#opera)   | https://www.opera.com/pl/download                | Windows, Linux, macOS |
 | Edytor                         | VS Code           | https://code.visualstudio.com                    | Windows, Linux, macOS |
-| Klient poczty                   | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
+| Klient poczty                  | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
 | Przechwytywanie ekranu i publikacja | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
 
 Subiektywana lista
@@ -19,8 +19,6 @@ Subiektywana lista
 - Github Desktop
 - ConEmu
 - [Tomighty](https://tomighty.github.io)
-
-Quantity:tomato::tomato::tomato::tomato: (tomato represent estimation point)
 
 Zarządzanie czasem
 ===============
