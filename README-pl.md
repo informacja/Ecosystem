@@ -1,5 +1,5 @@
 # Dzień dobry
-Obecnie najważniejszem wyborem programu jest przeglądarka internetowa, spędzamy w "internecie najwięcej czasu". Dlatego powiedz mi której przeglądarki używasz, a powiem Ci kim jsteś 😉
+Obecnie najważniejszem wyborem programu jest przeglądarka internetowa, spędzamy w "internecie najwięcej czasu". Dlatego parafrazując klasyka *powiedz mi której przeglądarki używasz, a powiem Ci kim jesteś* 😉
 > Czas spędzany przy stanowisku monitorowym:
 > 1. Przeglądarka
 > 2. Edytor
@@ -22,10 +22,10 @@ Subiektywana lista
 
 Zarządzanie czasem
 ===============
-###### Two ways of making Checklist (put mark on left or right side to writen task)
+##### Dwie drogi tworzenia Checklist (zapisywanie postępu po prawej lub lewej stronie zadania)
 | Jakość                       | Ilość    | 
 |-------------------------|--|
-|- [x] Jakość <br> - [x] Zrobione <br> - [ ] Następne zadanie | Czas :tomato::tomato::tomato::tomato:<br>Other plan :tomato::tomato:<br>(każdy pomidor jest punktem estymacji)|
+|- [x] Jakość <br> - [x] Zakończone zadanie <br> - [ ] Następne zadanie | Czas :tomato::tomato::tomato::tomato:<br>Inny projekt :tomato::tomato:<br>(każdy pomidor jest punktem estymacji)|
 |**Z życia wzięte**||
 | Space | Tomighty|
 |![Space](docs/qualityShort.png)|![Tomighty](docs/quantity.jpg)
