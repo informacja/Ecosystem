@@ -1,5 +1,5 @@
 # Dzień dobry
-Miło mi że tu dotarłeś, moim zdaniem obecnie najważniejszem wyborem programu przez programistę jest przeglądarka internetowa, spędzamy w "internecie" najwięcej czasu. Dlatego parafrazując klasyka *"powiedz mi jakiej przeglądarki używasz, a powiem Ci kim jesteś"* 😉
+Miło mi że tu dotarłeś, moim zdaniem obecnie najważniejszem wyborem przez programistę jest przeglądarka internetowa, spędzamy w "internecie" najwięcej czasu. Dlatego parafrazując klasyka *"powiedz mi jakiej przeglądarki używasz, a powiem Ci kim jesteś"* 😉
 > Czas spędzany przy stanowisku monitorowym:
 > 1. Przeglądarka
 > 2. Edytor
