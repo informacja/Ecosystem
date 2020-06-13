@@ -6,12 +6,12 @@ Today, in my opinion, the Internet browser is much more important than the opera
 > 3. Communicator
 
 ## Programs list
-| Category                       | Name    | Link                                                       | Platform              |
-|--------------------------------|---------|------------------------------------------------------------|-----------------------|
-|- [x] Quality <br> - [x] Done <br> - [ ] Next task |Quantity :tomato::tomato::tomato::tomato:<br>Other plan :tomato::tomato:<br>(tomato represent estimation point)|
-| Editor                         | VS Code           | https://code.visualstudio.com                    | Windows, Linux, macOS |
-| Mail client                    | Thunderbird       | https://www.thunderbird.net                      | Windows, Linux, macOS |
-| Screen recorder / auto publish | [ShareX](#ShareX) | https://getsharex.com/downloads                  | Windows               |
+| Category                                           | Name                                                                                                            | Link                            | Platform              |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------- |
+| - [x] Quality <br> - [x] Done <br> - [ ] Next task | Quantity :tomato::tomato::tomato::tomato:<br>Other plan :tomato::tomato:<br>(tomato represent estimation point) |
+| Editor                                             | VS Code                                                                                                         | https://code.visualstudio.com   | Windows, Linux, macOS |
+| Mail client                                        | Thunderbird                                                                                                     | https://www.thunderbird.net     | Windows, Linux, macOS |
+| Screen recorder / auto publish                     | [ShareX](#ShareX)                                                                                               | https://getsharex.com/downloads | Windows               |
 
 More subiective list
 ----------------
@@ -23,18 +23,21 @@ More subiective list
 Time planning
 ===============
 ###### Two ways of making Checklist (put mark on left or right side to writen task)
-| Quality                       | Quantity    | 
-|-------------------------|--|
-|- [x] Quality <br> - [x] Done <br> - [ ] Next task | (tomato represent estimation point) <br>Quantity :tomato::tomato::tomato::tomato:<br>Other palan :tomato::tomato:<br>|
-|**Examle in real world**||
-| Space | Tomighty|
-|![Space](docs/qualityShort.png)|![Tomighty](docs/quantity.jpg)
+| Quality                                            | Quantity                                                                                                              |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| - [x] Quality <br> - [x] Done <br> - [ ] Next task | (tomato represent estimation point) <br>Quantity :tomato::tomato::tomato::tomato:<br>Other palan :tomato::tomato:<br> |
+| **Examle in real world**                           |                                                                                                                       |
+| Space                                              | Tomighty                                                                                                              |
+| ![Space](docs/qualityShort.png)                    | ![Tomighty](docs/quantity.jpg)                                                                                        |
 
 The most frequent mistake: **thinking We don't need a rest**
 
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 *This README was made in one week, what I thinking is a great success*
+###  BONUS: How standard git repo should looks
+* docs *directory for images, and none executive data, like datasheet and presentation*
+* Readme.md - filename displayed by default, should contains image or gif from docs directory describeing project 
 
 ## Screenshots
 
