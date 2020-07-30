@@ -19,6 +19,13 @@ More subiective list
 - Github Desktop
 - ConEmu
 - [Tomighty](https://tomighty.github.io)
+- Creating Mind Palace 
+  - Free
+    - [diagrams.net](https://www.diagrams.net) (old draw.io, good integration with G Drive, diagrams looks very simple)      
+    - [GitMind.com](https://gitmind.com/app) (online and fast)
+  - Paid
+    - [XMind](https://www.xmind.net) (Most intuitive)
+    - [Coggle](https://coggle.it) (Well colored for learning by heart)  
 
 Time planning
 ===============
