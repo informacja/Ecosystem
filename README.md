@@ -18,6 +18,13 @@ More subiective list
 - Github Desktop
 - ConEmu
 - [Tomighty](https://tomighty.github.io)
+- Creating Mind Palace 
+  - Free
+    - [diagrams.net](https://www.diagrams.net) (old draw.io, good integration with G Drive, diagrams looks very simple)      
+    - [GitMind.com](https://gitmind.com/app) (online and fast)
+  - Paid
+    - [XMind](https://www.xmind.net) (Most intuitive)
+    - [Coggle](https://coggle.it) (Well colored for learning by heart)  
 
 Time planning
 ===============
@@ -33,10 +40,10 @@ The most frequent mistake: **thinking We don't need a rest**
 
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-*This README was made in one week, what I thinking is a great success*
+*This README was made in one week, what I thinking a great success*
 ###  BONUS: How standard git repo should looks
-* docs *directory for images, and none executive data, like datasheet and presentation*
-* Readme.md - filename displayed by default, should contains image or gif from docs directory describeing project 
+* **docs** - *directory for images, and none executive data, like datasheet and presentation*
+* **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describeing project*
 
 ## Screenshots
 
