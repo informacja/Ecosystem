@@ -8,7 +8,6 @@ Today, in my opinion, the Internet browser is much more important than the opera
 ## Programs list
 | Category                                           | Name                                                                                                            | Link                            | Platform              |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------- |
-| - [x] Quality <br> - [x] Done <br> - [ ] Next task | Quantity :tomato::tomato::tomato::tomato:<br>Other plan :tomato::tomato:<br>(tomato represent estimation point) |
 | Editor                                             | VS Code                                                                                                         | https://code.visualstudio.com   | Windows, Linux, macOS |
 | Mail client                                        | Thunderbird                                                                                                     | https://www.thunderbird.net     | Windows, Linux, macOS |
 | Screen recorder / auto publish                     | [ShareX](#ShareX)                                                                                               | https://getsharex.com/downloads | Windows               |
