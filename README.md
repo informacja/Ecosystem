@@ -5,11 +5,11 @@ Today, in my opinion, the Internet browser is much more important than the opera
 > 2. Editor
 > 3. Communicator
 
-## Programs list
+## Free programs list
 | Category                                           | Name                                                                                                            | Link                            | Platform              |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------- |
 | Editor                                             | VS Code                                                                                                         | https://code.visualstudio.com   | Windows, Linux, macOS |
-| Mail client                                        | Thunderbird                                                                                                     | https://www.thunderbird.net     | Windows, Linux, macOS |
+| Mail client                                        | Thunderbird (or system default)                                                                                                     | https://www.thunderbird.net     | Windows, Linux, macOS |
 | Screen recorder / auto publish                     | [ShareX](#ShareX)                                                                                               | https://getsharex.com/downloads | Windows               |
 
 More subiective list
@@ -24,7 +24,7 @@ More subiective list
     - [GitMind.com](https://gitmind.com/app) (online and fast)
   - Paid
     - [XMind](https://www.xmind.net) (Most intuitive)
-    - [Coggle](https://coggle.it) (Well colored for learning by heart)  
+    - **[Coggle](https://coggle.it)** (Well colored for learning by heart)  
 
 Time planning
 ===============
@@ -36,14 +36,14 @@ Time planning
 | Space                                              | Tomighty                                                                                                              |
 | ![Space](docs/qualityShort.png)                    | ![Tomighty](docs/quantity.jpg)                                                                                        |
 
-The most frequent mistake: **thinking We don't need a rest**
+The most frequent mistake: **Thinking, I don't need a rest**
 
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-*This README was made in one week, what I thinking a great success*
-###  BONUS: How standard git repo should looks
+*This README was made in one week before the lecture, what means a great success*
+###  BONUS: How standard git repo should contains
 * **docs** - *directory for images, and none executive data, like datasheet and presentation*
-* **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describeing project*
+* **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
 
 ## Screenshots
 
