@@ -45,8 +45,8 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 * **docs** - *directory for images, and none executive data, like datasheet and presentation*
 * **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
 ### ToDo
--[ ] Eisenhouer (Female) Time Planinng LIst  
--[ ] Waren Buffet (Male) Time Planinng LIst  
+-[ ] Eisenhower  (Female) Time Planinng List  
+-[ ] Warren Buffett (Male) Time Planinng List  
 
 ## Screenshots
 
