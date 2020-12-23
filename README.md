@@ -3,7 +3,7 @@ Today, in my opinion, the Internet browser is much more important than the opera
 > Priority of time spent at work (programs window order on monitors):
 > 1. Browser
 > 2. Editor
-> 3. Communicator Use less than . ..
+> 3. Communicator (Use less than) . ..
 
 ## Free programs list
 | Category                                           | Name                                                                                                            | Link                            | Platform              |
