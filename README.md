@@ -1,9 +1,9 @@
 # Welcome everyone
-Today, in my opinion, the Internet browser is much more important than the operating system you use. Tell me what browser you use, and I will tell you who you are 😉
+Today, in my opinion, the Internet browser is much more important than the operating system you use. Tell me what browser you use, and I will tell you who you are :innocent:
 > Priority of time spent at work (programs window order on monitors):
 > 1. Browser
 > 2. Editor
-> 3. Communicator
+> 3. Communicator Use less than . ..
 
 ## Free programs list
 | Category                                           | Name                                                                                                            | Link                            | Platform              |
