@@ -6,11 +6,11 @@ Today, in my opinion, the Internet browser is much more important than the opera
 > 3. Communicator (Use less than) . ..
 
 ## Free programs list
-| Category                                           | Name                                                                                                            | Link                            | Platform              |
-| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------- |
-| Editor                                             | VS Code                                                                                                         | https://code.visualstudio.com   | Windows, Linux, macOS |
-| Mail client                                        | Thunderbird (or system default)                                                                                                     | https://www.thunderbird.net     | Windows, Linux, macOS |
-| Screen recorder / auto publish                     | [ShareX](#ShareX)                                                                                               | https://getsharex.com/downloads | Windows               |
+| Category                       | Name                            | Link                            | Platform              |
+| ------------------------------ | ------------------------------- | ------------------------------- | --------------------- |
+| Editor                         | VS Code                         | https://code.visualstudio.com   | Windows, Linux, macOS |
+| Mail client                    | Thunderbird (or system default) | https://www.thunderbird.net     | Windows, Linux, macOS |
+| Screen recorder / auto publish | [ShareX](#ShareX)               | https://getsharex.com/downloads | Windows               |
 
 More subiective list
 ----------------
@@ -45,8 +45,10 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 * **docs** - *directory for images, and none executive data, like datasheet and presentation*
 * **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
 ### ToDo
--[ ] Eisenhower  (Female) Time Planinng List  
--[ ] Warren Buffett (Male) Time Planinng List  
+- [ ] Eisenhower (Female) Time Planinng List  
+- [ ] Warren Buffett (Male) Time Planinng List  
+
+#### Developer communities [Produktywini](https://produktywni.pl) & [Zautomatyzowani](http://zautomatyzowani.pl)
 
 ## Screenshots
 
