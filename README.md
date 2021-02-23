@@ -51,6 +51,7 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ### ToDo
 - [ ] Eisenhower (Female) Time Planinng List  
 - [ ] Warren Buffett (Male) Time Planinng List  
+- [ ] _EGO_ as a special case/part of _ECO_
 
 ## Screenshots
 
