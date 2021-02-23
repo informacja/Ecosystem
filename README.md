@@ -5,6 +5,8 @@ Today, in my opinion, the Internet browser is much more important than the opera
 > 2. Editor
 > 3. Communicator (Use less than) . ..
 
+#### Developer communities [Produktywini](https://produktywni.pl) & [Zautomatyzowani](http://zautomatyzowani.pl)
+
 ## Free programs list
 | Category                       | Name                            | Link                            | Platform              |
 | ------------------------------ | ------------------------------- | ------------------------------- | --------------------- |
@@ -17,7 +19,7 @@ More subiective list
 - Multicommander
 - Github Desktop
 - ConEmu
-- [Tomighty](https://tomighty.github.io)
+- [Tomighty](https://tomighty.github.io) (Pomodoro method)
 - Creating Mind Palace 
   - Free
     - [diagrams.net](https://www.diagrams.net) (old draw.io, good integration with G Drive, diagrams looks very simple)      
@@ -44,11 +46,11 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ###  BONUS: How standard git repo should contains
 * **docs** - *directory for images, and none executive data, like datasheet and presentation*
 * **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
+
+
 ### ToDo
 - [ ] Eisenhower (Female) Time Planinng List  
 - [ ] Warren Buffett (Male) Time Planinng List  
-
-#### Developer communities [Produktywini](https://produktywni.pl) & [Zautomatyzowani](http://zautomatyzowani.pl)
 
 ## Screenshots
 
