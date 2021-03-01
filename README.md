@@ -5,8 +5,6 @@ Today, in my opinion, the Internet browser is much more important than the opera
 > 2. Editor
 > 3. Communicator (Use less than) . ..
 
-#### [Inżynier jakosci](https://inzynierjakosci.pl) Developer communities [Produktywini](https://produktywni.pl) & [Zautomatyzowani](http://zautomatyzowani.pl) 
-
 ## Free programs list
 | Category                       | Name                                                         | Link                                                            | Platform              |
 | ------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------- |
@@ -27,6 +25,8 @@ More subiective list
   - Paid
     - [XMind](https://www.xmind.net) (Most intuitive)
     - **[Coggle](https://coggle.it)** (Well colored for learning by heart)  
+
+#### [Inżynier jakosci](https://inzynierjakosci.pl) Developer communities [Produktywini](https://produktywni.pl) & [Zautomatyzowani](http://zautomatyzowani.pl) 
 
 Time planning
 ===============
