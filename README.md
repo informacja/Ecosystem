@@ -5,14 +5,14 @@ Today, in my opinion, the Internet browser is much more important than the opera
 > 2. Editor
 > 3. Communicator (Use less than) . ..
 
-#### Developer communities [Produktywini](https://produktywni.pl) & [Zautomatyzowani](http://zautomatyzowani.pl)
+#### [Inżynier jakosci](https://inzynierjakosci.pl) Developer communities [Produktywini](https://produktywni.pl) & [Zautomatyzowani](http://zautomatyzowani.pl) 
 
 ## Free programs list
-| Category                       | Name                            | Link                            | Platform              |
-| ------------------------------ | ------------------------------- | ------------------------------- | --------------------- |
-| Editor                         | VS Code                         | https://code.visualstudio.com   | Windows, Linux, macOS |
-| Mail client                    | Thunderbird (or system default) | https://www.thunderbird.net     | Windows, Linux, macOS |
-| Screen recorder / auto publish | [ShareX](#ShareX)               | https://getsharex.com/downloads | Windows               |
+| Category                       | Name                                                         | Link                                                            | Platform              |
+| ------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------- |
+| Editor                         | VS Code                                                      | https://code.visualstudio.com                                   | Windows, Linux, macOS |
+| Mail client                    | Thunderbird (or system default)                              | https://www.thunderbird.net                                     | Windows, Linux, macOS |
+| Screen recorder / auto publish | [ShareX](#ShareX) / [LightShot](https://app.prntscr.com/pl/) | https://getsharex.com/ https://app.prntscr.com/pl/download.html | Windows               |
 
 More subiective list
 ----------------
@@ -47,11 +47,10 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 * **docs** - *directory for images, and none executive data, like datasheet and presentation*
 * **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
 
-
 ### ToDo
 - [ ] Eisenhower (Female) Time Planinng List  
 - [ ] Warren Buffett (Male) Time Planinng List  
-- [ ] _EGO_ as a special case/part of _ECO_
+- [ ] _EGO_ as a special case of _ECO_
 
 ## Screenshots
 
