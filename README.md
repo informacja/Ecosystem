@@ -48,9 +48,10 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 * **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
 
 ### ToDo
-- [ ] Eisenhower (Female) Time Planinng List  
-- [ ] Warren Buffett (Male) Time Planinng List  
-- [ ] _EGO_ as a special case of _ECO_
+- [ ] Eisenhower (Proportion) Time Planinng List  
+- [ ] Warren Buffett (Prioryty) Time Planinng List  
+- [ ] _EGO_ as a special case of/look from diff perspective _ECO_
+- [ ] OKR - quartal time Planinng
 
 ## Screenshots
 
