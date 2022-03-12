@@ -14,7 +14,7 @@ Today, in my opinion, the Internet browser is much more important than the opera
 
 More subiective list
 ----------------
-- Multicommander
+- Multicommander (Win) / Commander One (Mac)
 - Github Desktop
 - ConEmu
 - [Tomighty](https://tomighty.github.io) (Pomodoro method)
