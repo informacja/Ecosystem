@@ -79,8 +79,41 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ###### Lookup of possibilities
 ![why](docs/sharex.gif)
 
-
 #### Tomighty 
 ###### Pomodoro method
 ![why](docs/tomighty.png)
 
+### Practice
+
+1. Clone repository via Github Desktop https://github.com/EESTEC-AGH-Krakow/eestec-website-home-frontend
+2. Open project in Editor
+
+  a) VS Code prese *Control + ~* to open terminal
+
+3. Copy & run commands from Readme.md file
+
+npm init vue@3
+
+instal Vetur
+create nuxt app
+https://v3.nuxtjs.org/getting-started/quick-start/ // dla chętnych
+https://v3.nuxtjs.org/examples/essentials/hello-world
+https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
+
+## Setup before the meeting :wink:
+- Install https://nodejs.org/en/download/ [How to](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
+
+instal git
+
+Przychodzimy z utworzonym kontem na githubie
+
+co to git i github
+po co są
+tworzenie repo
+tworzenie branchy (wytłumaczenie co i jak z branchami)
+Znam dwa podejścia
+Imienne lub master, dev, featureName
+*jak w portfolio na githubie?*
+[
+  ![ddd](docs/BrainStorm.png)
+](https://coggle.it/diagram/YnLXh7pD2_LECQns/t/-/32e16b67eabbdc65ed810335b91279f26ee1940b255c39772dc8e0843a9c3f53)
