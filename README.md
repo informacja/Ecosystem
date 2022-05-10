@@ -83,6 +83,27 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ###### Pomodoro method
 ![why](docs/tomighty.png)
 
+#### toDo
+
+co to git i github (system kontroli wersji)
+
+po co są
+
+tworzenie repo
+
+tworzenie branchy (wytłumaczenie co i jak z branchami)
+Znam dwa podejścia
+
+Imienne lub master, dev, featureName
+
+*jak w portfolio na githubie?*
+[
+  ![ddd](docs/BrainStorm.png)
+](https://coggle.it/diagram/YnLXh7pD2_LECQns/t/-/32e16b67eabbdc65ed810335b91279f26ee1940b255c39772dc8e0843a9c3f53)
+
+celi i do czego dązymy (na następne zajęcia i do portfolio)
+
+
 ### Practice
 
 1. Clone repository via Github Desktop https://github.com/EESTEC-AGH-Krakow/eestec-website-home-frontend
@@ -94,6 +115,8 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 
 npm init vue@3
 
+https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
+
 instal Vetur
 create nuxt app
 https://v3.nuxtjs.org/getting-started/quick-start/ // dla chętnych
@@ -103,17 +126,6 @@ https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
 ## Setup before the meeting :wink:
 - Install https://nodejs.org/en/download/ [How to](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
 
-instal git
+install git && Github desktop
 
 Przychodzimy z utworzonym kontem na githubie
-
-co to git i github
-po co są
-tworzenie repo
-tworzenie branchy (wytłumaczenie co i jak z branchami)
-Znam dwa podejścia
-Imienne lub master, dev, featureName
-*jak w portfolio na githubie?*
-[
-  ![ddd](docs/BrainStorm.png)
-](https://coggle.it/diagram/YnLXh7pD2_LECQns/t/-/32e16b67eabbdc65ed810335b91279f26ee1940b255c39772dc8e0843a9c3f53)
