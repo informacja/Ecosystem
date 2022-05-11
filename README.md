@@ -83,6 +83,8 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ###### Pomodoro method
 ![why](docs/tomighty.png)
 
+###### Proszę o wpisywanie się na listę coogle.it
+
 ## Intro
 ![](docs/gitIntro.png)
 
