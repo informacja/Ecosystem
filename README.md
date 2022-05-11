@@ -83,7 +83,16 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ###### Pomodoro method
 ![why](docs/tomighty.png)
 
+## Intro
+![](docs/gitIntro.png)
+
+![](docs/workingDir.png)
+
+![](docs/branch.png)
+
 #### toDo
+
+celi i do czego dązymy (na następne zajęcia i do portfolio)
 
 co to git i github (system kontroli wersji)
 
@@ -97,12 +106,10 @@ Znam dwa podejścia
 Imienne lub master, dev, featureName
 
 *jak w portfolio na githubie?*
+
 [
   ![ddd](docs/BrainStorm.png)
 ](https://coggle.it/diagram/YnLXh7pD2_LECQns/t/-/32e16b67eabbdc65ed810335b91279f26ee1940b255c39772dc8e0843a9c3f53)
-
-celi i do czego dązymy (na następne zajęcia i do portfolio)
-
 
 ### Practice
 
@@ -129,3 +136,4 @@ https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
 install git && Github desktop
 
 Przychodzimy z utworzonym kontem na githubie
+ przyda się też konto do pczty na gmailu do której macie dostęp
