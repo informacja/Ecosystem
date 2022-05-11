@@ -83,6 +83,16 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ###### Pomodoro method
 ![why](docs/tomighty.png)
 
+
+## Setup before the meeting :wink:
+- Install https://nodejs.org/en/download/ [How to](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
+
+- Install [git](https://git-scm.com/downloads) && [Github desktop](https://desktop.github.com)
+
+Przychodzimy z utworzonym kontem na Githubie.
+
+Przyda się też konto do poczty na Gmailu do której masz dostęp.
+
 ###### Proszę o wpisywanie się na listę coogle.it (w biurze na laptopie prowadzącego)
 
 ## Intro
@@ -96,7 +106,9 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ![](docs/githubDesktop.jpeg)
  + zaleta: można klonować repozytoria z różnch hostingów i mieć porządek, ta aplikacja to taki centralny punkt pośredniczący
 
-### Agenda
+## Agenda
+
+### Teoria
 
 1. Cel i do czego dążymy (na następne zajęcia Vue i indywidualne portfolio)
 
@@ -106,14 +118,17 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
   - Gdy projekt jest tylko na jednej maszynie, wraz z jej awarią tracimy repozytorium, dlatego warto przechowaywać na zdalnym serwerze swój kod.
   - Rozgałęzienia pozwalają na zrównoleglanie pracy wielu programistów, a także na cofanie zmian.
 
-tworzenie repo
+### Synteza
 
-tworzenie branchy (wytłumaczenie co i jak z branchami)
-Znam dwa podejścia
+1. Tworzenie repo
 
-Imienne lub master, dev, featureName
+2. Tworzenie branchy
 
-*jak w portfolio na githubie?*
+Dwa podejścia przy nazywaniu
+
+__Imienne__ lub *master*, *dev* i __featureName__
+
+3. *Portfolio na [githubie](https://github.com/topics/portfolio)?*
 
 [
   ![ddd](docs/BrainStorm.png)
@@ -137,11 +152,3 @@ create nuxt app
 https://v3.nuxtjs.org/getting-started/quick-start/ // dla chętnych
 https://v3.nuxtjs.org/examples/essentials/hello-world
 https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
-
-## Setup before the meeting :wink:
-- Install https://nodejs.org/en/download/ [How to](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
-
-install git && Github desktop
-
-Przychodzimy z utworzonym kontem na githubie
- przyda się też konto do pczty na gmailu do której macie dostęp
