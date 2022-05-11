@@ -83,7 +83,7 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ###### Pomodoro method
 ![why](docs/tomighty.png)
 
-###### Proszę o wpisywanie się na listę coogle.it
+###### Proszę o wpisywanie się na listę coogle.it (w biurze na laptopie prowadzącego)
 
 ## Intro
 ![](docs/gitIntro.png)
@@ -92,13 +92,19 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 
 ![](docs/branch.png)
 
-#### toDo
+### Github Desktop
+![](docs/githubDesktop.jpeg)
+ + zaleta: można klonować repozytoria z różnch hostingów i mieć porządek, ta aplikacja to taki centralny punkt pośredniczący
 
-celi i do czego dązymy (na następne zajęcia i do portfolio)
+### Agenda
 
-co to git i github (system kontroli wersji)
+1. Cel i do czego dążymy (na następne zajęcia Vue i indywidualne portfolio)
 
-po co są
+2. Co to git i github (rozproszony system kontroli wersji)
+
+3. Po co mi to?
+  - Gdy projekt jest tylko na jednej maszynie, wraz z jej awarią tracimy repozytorium, dlatego warto przechowaywać na zdalnym serwerze swój kod.
+  - Rozgałęzienia pozwalają na zrównoleglanie pracy wielu programistów, a także na cofanie zmian.
 
 tworzenie repo
 
