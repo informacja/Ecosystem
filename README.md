@@ -43,7 +43,7 @@ The most frequent mistake: **Thinking, I don't need a rest**
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 *This README was made in one week before the lecture, what means a great success*
-###  BONUS: How standard git repo should contains
+###  BONUS: What standard git repo should contains
 * **docs** - *directory for images, and none executive data, like datasheet and presentation*
 * **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
 
