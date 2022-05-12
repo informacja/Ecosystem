@@ -83,17 +83,22 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 ###### Pomodoro method
 ![why](docs/tomighty.png)
 
-
 ## Setup before the meeting :wink:
+
+- Install [git](https://git-scm.com/downloads) & [Github desktop](https://desktop.github.com)
+
 - Install https://nodejs.org/en/download/ [How to](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
 
-- Install [git](https://git-scm.com/downloads) && [Github desktop](https://desktop.github.com)
 
 Przychodzimy z utworzonym kontem na Githubie.
 
 Przyda się też konto do poczty na Gmailu do której masz dostęp.
 
 ###### Proszę o wpisywanie się na listę coogle.it (w biurze na laptopie prowadzącego)
+
+[
+  ![ddd](docs/BrainStorm.png)
+](https://coggle.it/diagram/YnLXh7pD2_LECQns/t/-/32e16b67eabbdc65ed810335b91279f26ee1940b255c39772dc8e0843a9c3f53)
 
 ## Intro
 ![](docs/gitIntro.png)
@@ -110,7 +115,7 @@ Przyda się też konto do poczty na Gmailu do której masz dostęp.
 
 ### Teoria
 
-1. Cel i do czego dążymy (na następne zajęcia Vue i indywidualne portfolio)
+1. Cel i do czego dążymy (następne zajęcia z Vue i indywidualne portfolio)
 
 2. Co to git i github (rozproszony system kontroli wersji)
 
@@ -130,13 +135,10 @@ __Imienne__ lub *master*, *dev* i __featureName__
 
 3. *Portfolio na [githubie](https://github.com/topics/portfolio)?*
 
-[
-  ![ddd](docs/BrainStorm.png)
-](https://coggle.it/diagram/YnLXh7pD2_LECQns/t/-/32e16b67eabbdc65ed810335b91279f26ee1940b255c39772dc8e0843a9c3f53)
-
 ### Practice
 
-1. Clone repository via Github Desktop https://github.com/EESTEC-AGH-Krakow/eestec-website-home-frontend
+1. Clone repository via Github Desktop https://github.com/informacja/EESTECtemplate
+<!-- https://github.com/EESTEC-AGH-Krakow/eestec-website-home-frontend -->
 2. Open project in Editor
 
   a) VS Code prese *Control + ~* to open terminal
@@ -147,8 +149,87 @@ npm init vue@3
 
 https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
 
+## Na dokładkę 
+
+featureImage with bug
+
+dodaj gif
+
+
 instal Vetur
 create nuxt app
 https://v3.nuxtjs.org/getting-started/quick-start/ // dla chętnych
 https://v3.nuxtjs.org/examples/essentials/hello-world
 https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
+
+>Przez GitHuba
+>
+>Tworzymy nowy projekt (na własny użytek - jednoosobowo)
+
+![](docs/clone.png)
+
+wchodzimy na githuba, logujemy się
+
+klikamy załóż nowe repo
+
+wypełniamy + wyjaśniamy wszystkie pola
+
+prezentacja jak wygląda nasze repo, markdown
+
+Clonujemy projekt lokalnie
+
+jako że cross-platformowo - będziemy korzystać z git_bash na 
+
+windowsie a na macu normalnie lecimy z terminala 
+
+jeśli ktoś z was nie korzystał nigdy z konsoli bashowej to
+
+podsyłam wam małą ściągę
+
+komenda clone -> pojawi się okno sign in
+
+w przypadku pierwszego uzywania gita musimy:
+
+skonfigurować emaila - git config --global user.email "you@example.com"
+
+skonfigurować name - git config --global user.name "Your Name"
+
+robimy dodajemy nowy plik
+
+robimy pierwszy commit
+
+robimy push
+
+
+![](docs/addPeaople.png)
+
+Przez git init
+tworzymy katalog
+robimy git init <directory>
+tworzymy repo na githubie
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+jakąś zmianę wprowadzamy
+
+
+
+Praca grupowa (jako contributor)
+
+Przygotować zadania dla uczestników (issues)
+
+Teoria 
+
+branches
+
+pull requests i jak dodać review
+
+issues - gdzie
+
+Praktyka
+
+każdy clonuje sobie repo
+przeglądamy kod
+każdy dostaje taska
+tworzymy brancha pod taska
+edycja kodu - zaznaczone gdzie są zmiany - trzymać się swojego taska
+dodajemy  plik
+robimy commita
