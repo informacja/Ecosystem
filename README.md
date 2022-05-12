@@ -124,11 +124,13 @@ https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
 Stwórz brach o nazwie twojego imienia.
 Do pliku readme dodaj swojego ulubionego mema.
 
-Zadanie rangi profesorskiej.
+Zadanie rangi profesorskiej, do wygrania czekolada.
+
 featureImage with bug
 
-dodaj gif
+Dodaj gif
 
+-------------------
 
 instal Vetur
 create nuxt app
