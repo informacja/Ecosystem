@@ -52,29 +52,22 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 
 - Install [git](https://git-scm.com/downloads) & [Github desktop](https://desktop.github.com)
 
-- Install https://nodejs.org/en/download/ [How to](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
-
+- [How to](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac) install [nodejs](https://nodejs.org/en/download/) 
 
 Przychodzimy z utworzonym kontem na Githubie.
 
 Przyda się też konto do poczty na Gmailu do której masz dostęp.
 
-###### Proszę o wpisywanie się na listę coogle.it (w biurze na laptopie prowadzącego)
+###### Proszę o wpisywanie się na listę coogle.it (w biurze na laptopie prowadzącego) by uzyskać dostęp 
 
 [
   ![ddd](docs/BrainStorm.png)
 ](https://coggle.it/diagram/YnLXh7pD2_LECQns/t/-/32e16b67eabbdc65ed810335b91279f26ee1940b255c39772dc8e0843a9c3f53)
 
+Daj znać gdy skończysz instalacje, na powyższej mapie.
+
 ## Intro
 ![](docs/gitIntro.png)
-
-![](docs/workingDir.png)
-
-![](docs/branch.png)
-
-### Github Desktop
-![](docs/githubDesktop.jpeg)
- + zaleta: można klonować repozytoria z różnch hostingów i mieć porządek, ta aplikacja to taki centralny punkt pośredniczący
 
 ## Agenda
 
@@ -82,11 +75,21 @@ Przyda się też konto do poczty na Gmailu do której masz dostęp.
 
 1. Cel i do czego dążymy (następne zajęcia z Vue i indywidualne portfolio)
 
+![](docs/workingDir.png)
+
 2. Co to git i github (rozproszony system kontroli wersji)
+
+![](docs/branch.png)
 
 3. Po co mi to?
   - Gdy projekt jest tylko na jednej maszynie, wraz z jej awarią tracimy repozytorium, dlatego warto przechowaywać na zdalnym serwerze swój kod.
   - Rozgałęzienia pozwalają na zrównoleglanie pracy wielu programistów, a także na cofanie zmian.
+
+
+### Github Desktop
+![](docs/githubDesktop.jpeg)
+ + zaleta: można klonować repozytoria z różnch hostingów i mieć porządek, ta aplikacja to taki centralny punkt pośredniczący
+
 
 ### Synteza
 
@@ -103,6 +106,8 @@ __Imienne__ lub *master*, *dev* i __featureName__
 ### Practice
 
 1. Clone repository via Github Desktop https://github.com/informacja/EESTECtemplate
+
+> Dla chętnych https://mdbootstrap.com/docs/b5/vue/getting-started/installation/
 <!-- https://github.com/EESTEC-AGH-Krakow/eestec-website-home-frontend -->
 2. Open project in Editor
 
@@ -116,6 +121,10 @@ https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
 
 ## Na dokładkę 
 
+Stwórz brach o nazwie twojego imienia.
+Do pliku readme dodaj swojego ulubionego mema.
+
+Zadanie rangi profesorskiej.
 featureImage with bug
 
 dodaj gif
