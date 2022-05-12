@@ -47,41 +47,6 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 * **docs** - *directory for images, and none executive data, like datasheet and presentation*
 * **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
 
-### ToDo
-- [ ] Eisenhower (Proportion) Time Planinng List  
-- [ ] Warren Buffett (Prioryty) Time Planinng List  
-- [ ] _EGO_ as a special case of/look from diff perspective _ECO_
-- [ ] OKR - quartal time Planinng
-
-## Screenshots
-
-### Opera
-
->###### Mouse Gestures (with Right Mouse Click) 
->
-> ![ddd](docs/operaclose.gif)
-> [Firefox](https://addons.mozilla.org/pl/firefox/addon/opera-gestures)
-> [Chrome](https://www.google.com/search?safe=active&client=opera&hs=sI7&sxsrf=ALeKk01YUHIbZmO3I4BPpMMtxpQm1mdmpQ%3A1590060053822&ei=FWTGXtaUMe70qwHU0peIDg&q=google+chrome+gestures&oq=Google+chrome+gest&gs_lcp=CgZwc3ktYWIQAxgAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyCQgAEBYQHhCLAzIJCAAQFhAeEIsDMgkIABAWEB4QiwMyCQgAEBYQHhCLAzIJCAAQFhAeEIsDOgQIIxAnOgYIIxAnEBM6BAgAEEM6CAgAEIMBEIsDOgoIABCDARBDEIsDOgcIABBDEIsDOgUIABCLAzoFCAAQgwE6AggAOgcIABAKEIsDOggIABDLARCLA1DkBVj0NGC6O2gBcAB4AIABtwGIAecRkgEEMC4xOZgBAKABAaoBB2d3cy13aXq4AQM&sclient=psy-ab)
-
-###### Search in browser tabs
-![why](docs/operatabs.gif)
-
-###### [Flow](https://help.opera.com/pl/touch/my-flow/)
-
-###### Send pages to Opera Touch in your phone 
-![why](docs/flow.jpg)
-
-### ShareX 
-
-###### Screen capture, file sharing and productivity tool
-![why](docs/whysharex.png)
-
-###### Lookup of possibilities
-![why](docs/sharex.gif)
-
-#### Tomighty 
-###### Pomodoro method
-![why](docs/tomighty.png)
 
 ## Setup before the meeting :wink:
 
@@ -233,3 +198,39 @@ tworzymy brancha pod taska
 edycja kodu - zaznaczone gdzie są zmiany - trzymać się swojego taska
 dodajemy  plik
 robimy commita
+
+### ToDo
+- [ ] Eisenhower (Proportion) Time Planinng List  
+- [ ] Warren Buffett (Prioryty) Time Planinng List  
+- [ ] _EGO_ as a special case of/look from diff perspective _ECO_
+- [ ] OKR - quartal time Planinng
+
+## Screenshots
+
+### Opera
+
+>###### Mouse Gestures (with Right Mouse Click) 
+>
+> ![ddd](docs/operaclose.gif)
+> [Firefox](https://addons.mozilla.org/pl/firefox/addon/opera-gestures)
+> [Chrome](https://www.google.com/search?safe=active&client=opera&hs=sI7&sxsrf=ALeKk01YUHIbZmO3I4BPpMMtxpQm1mdmpQ%3A1590060053822&ei=FWTGXtaUMe70qwHU0peIDg&q=google+chrome+gestures&oq=Google+chrome+gest&gs_lcp=CgZwc3ktYWIQAxgAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyCQgAEBYQHhCLAzIJCAAQFhAeEIsDMgkIABAWEB4QiwMyCQgAEBYQHhCLAzIJCAAQFhAeEIsDOgQIIxAnOgYIIxAnEBM6BAgAEEM6CAgAEIMBEIsDOgoIABCDARBDEIsDOgcIABBDEIsDOgUIABCLAzoFCAAQgwE6AggAOgcIABAKEIsDOggIABDLARCLA1DkBVj0NGC6O2gBcAB4AIABtwGIAecRkgEEMC4xOZgBAKABAaoBB2d3cy13aXq4AQM&sclient=psy-ab)
+
+###### Search in browser tabs
+![why](docs/operatabs.gif)
+
+###### [Flow](https://help.opera.com/pl/touch/my-flow/)
+
+###### Send pages to Opera Touch in your phone 
+![why](docs/flow.jpg)
+
+### ShareX 
+
+###### Screen capture, file sharing and productivity tool
+![why](docs/whysharex.png)
+
+###### Lookup of possibilities
+![why](docs/sharex.gif)
+
+#### Tomighty 
+###### Pomodoro method
+![why](docs/tomighty.png)
