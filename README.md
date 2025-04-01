@@ -8,41 +8,33 @@ Today, in my opinion, the Internet browser is much more important than the opera
 ## Free programs list
 | Category                       | Name                                                         | Link                                                            | Platform              |
 | ------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------- |
-| Editor                         | VS Code                                                      | https://code.visualstudio.com                                   | Windows, Linux, macOS |
-| Mail client                    | Thunderbird (or system default)                              | https://www.thunderbird.net                                     | Windows, Linux, macOS |
-| Screen recorder / auto publish | [ShareX](#ShareX) / [LightShot](https://app.prntscr.com/pl/) | https://getsharex.com/ https://app.prntscr.com/pl/download.html | Windows               |
+| Editor                         | VS Code                                                      | https://code.visualstudio.com                                   | Windows, Linux, macOS, Web Browser |
+| Web Browser                    | Arc                                                          | https://arc.net                                                 | Windows, macOS |
 
 More subiective list
 ----------------
 - Multicommander (Win) / Commander One (Mac)
 - Github Desktop
-- ConEmu
 - [Tomighty](https://tomighty.github.io) (Pomodoro method)
-- Creating Mind Palace 
+- Tools for creating Mind Palace 
   - Free
-    - [diagrams.net](https://www.diagrams.net) (old draw.io, good integration with G Drive, diagrams looks very simple)      
-    - [GitMind.com](https://gitmind.com/app) (online and fast)
+    - [diagrams.net](https://www.diagrams.net) (old draw.io, good integration with G Drive, diagrams looks very simple)
   - Paid
-    - [XMind](https://www.xmind.net) (Most intuitive)
     - **[Coggle](https://coggle.it)** (Well colored for learning by heart)  
 
-#### [Inżynier jakosci](https://inzynierjakosci.pl) Developer communities [Produktywini](https://produktywni.pl) & [Zautomatyzowani](http://zautomatyzowani.pl) 
+#### Developer growth training & community https://www.productivitybyheart.com/
 
 Time planning
 ===============
 ###### Two ways of making Checklist (put mark on left or right side to writen task)
 | Quality                                            | Quantity                                                                                                              |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| - [x] Quality <br> - [x] Done <br> - [ ] Next task | (tomato represent estimation point) <br>Quantity :tomato::tomato::tomato::tomato:<br>Other palan :tomato::tomato:<br> |
-| **Examle in real world**                           |                                                                                                                       |
-| Space                                              | Tomighty                                                                                                              |
-| ![Space](docs/qualityShort.png)                    | ![Tomighty](docs/quantity.jpg)                                                                                        |
 
 The most frequent mistake: **Thinking, I don't need a rest**
 
 Are you interested in how to make instructions like this? Check it [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-*This README was made in one week before the lecture, what means a great success*
+*This README was made in one day before the lecture, what means for me a great success*
 ###  BONUS: How standard git repo should contains
 * **docs** - *directory for images, and none executive data, like datasheet and presentation*
 * **Readme.md** - *filename displayed by default, should contains image or gif from docs directory describing project*
@@ -55,7 +47,17 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 
 ## Screenshots
 
-### Opera
+### Arc Browser on smartphone
+![IMG_DC7CA8EE1033-1](https://github.com/user-attachments/assets/b5b8932d-e1d2-450f-aedf-637289643839)
+
+List of innovations
+1. Browser tabs and bookmarks in one place (no more abstract objestcts)
+2. Fullscreen mode on macOS
+3. Boosts - edit web domain
+4. Log in to browser to serch internet
+
+
+### Opera pionierig parts
 
 >###### Mouse Gestures (with Right Mouse Click) 
 >
@@ -70,15 +72,6 @@ Are you interested in how to make instructions like this? Check it [Markdown Che
 
 ###### Send pages to Opera Touch in your phone 
 ![why](docs/flow.jpg)
-
-### ShareX 
-
-###### Screen capture, file sharing and productivity tool
-![why](docs/whysharex.png)
-
-###### Lookup of possibilities
-![why](docs/sharex.gif)
-
 
 #### Tomighty 
 ###### Pomodoro method
